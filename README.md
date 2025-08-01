@@ -1,3 +1,4 @@
+Data Model for this Project
 1. Users Table
 
 This table stores information about all registered customers who can book rooms.
